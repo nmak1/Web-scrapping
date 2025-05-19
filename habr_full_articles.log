@@ -1,0 +1,76 @@
+2025-05-19 17:36:08 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/angarasecurity/articles/910808/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:09 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/flocktory/articles/910800/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:10 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910798/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:11 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/tbank/articles/910030/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:13 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/kaspersky/articles/910664/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:14 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/timeweb/articles/910776/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:15 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/otus/articles/909170/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:16 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910628/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:18 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/alfa/articles/909498/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:19 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/it_sense/articles/910632/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:20 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910784/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:21 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/express/articles/910694/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:22 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/ascon/articles/910780/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:23 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910778/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:25 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910716/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:26 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/articles/910770/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:27 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/profi_ru/articles/910768/',), kwargs={}
+Результат: False
+----------------------------------------
+2025-05-19 17:36:28 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/ruvds/articles/910734/',), kwargs={}
+Результат: True
+----------------------------------------
+2025-05-19 17:36:30 - Вызов функции: check_full_article
+Аргументы: args=('https://habr.com/ru/companies/onlinepatent/articles/910762/',), kwargs={}
+Результат: True
+----------------------------------------
